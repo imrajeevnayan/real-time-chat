@@ -450,7 +450,6 @@ Simply run `docker-compose up -d` in the backend directory to deploy the entire 
 
 ---
 
-**Developed by**: MiniMax Agent
 **Date**: 2025-10-31
 **Project**: Real-Time Chat Application
 **Status**: COMPLETE
